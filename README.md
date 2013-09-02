@@ -1,8 +1,7 @@
-
 ShortCSS - jQuery Plugin
 ========================
 
-[shortCSS](http://lab.maheshtile.in/shortcss) - jQuery Plugin for shortening css classnames
+[shortCSS](http://lab.maheshtile.in/shortcss) - jQuery Plugin for shorten/replace css classnames
 
 
 ## Getting Started
