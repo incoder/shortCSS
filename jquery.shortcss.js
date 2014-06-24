@@ -9,7 +9,7 @@
 * Project home:
 * http://lab.maheshtile.in/shortcss
 *
-* changetoersion: 1.01
+* version: 1.01
 *
 */
 
